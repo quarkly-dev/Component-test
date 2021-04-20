@@ -1,6 +1,7 @@
-export { default as QuarklycommunityKitScrollIndicator } from "./QuarklycommunityKitScrollIndicator"
 export { default as QuarklycommunityKitAnimation } from "./QuarklycommunityKitAnimation"
 export { default as QuarklycommunityKitCarousel } from "./QuarklycommunityKitCarousel"
 export { default as QuarklycommunityKitYoomoneyDonateForm } from "./QuarklycommunityKitYoomoneyDonateForm"
 export { default as QuarklycommunityKitBackToTop } from "./QuarklycommunityKitBackToTop"
+export { default as QuarklycommunityKitScrollIndicator } from "./QuarklycommunityKitScrollIndicator"
 export { default as QuarklycommunityKitLoopText } from "./QuarklycommunityKitLoopText"
+export { default as QuarklycommunityKitCounter } from "./QuarklycommunityKitCounter"
