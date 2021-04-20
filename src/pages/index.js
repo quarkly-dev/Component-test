@@ -15,6 +15,7 @@ export default (() => {
 			<meta name={"description"} content={"Web site created using quarkly.io"} />
 			<link rel={"shortcut icon"} href={"https://uploads.quarkly.io/readme/cra/favicon-32x32.ico"} type={"image/x-icon"} />
 		</Helmet>
+		<Components.QuarklycommunityKitScrollIndicator />
 		<Components.QuarklycommunityKitBackToTop>
 			<Section padding="100px 0" sm-padding="40px 0" background="#5463DE">
 				<Override slot="SectionContent" align-items="center" />
@@ -54,6 +55,7 @@ export default (() => {
 			</Components.QuarklycommunityKitCarousel>
 			<Components.QuarklycommunityKitYoomoneyDonateForm account="410015781814942" targets="for a cup of coffee" fio />
 		</Components.QuarklycommunityKitBackToTop>
+		<Components.QuarklycommunityKitLoopText />
 		<Link
 			font={"--capture"}
 			font-size={"10px"}
